@@ -6,7 +6,7 @@ output:
       toc_float: true
 ---
 
-## Part2
+
 
 1.	Open R (I use R studio, you can also use the command line) 
 2.	Install edgeR. 
