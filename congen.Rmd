@@ -119,4 +119,5 @@ abline(h = c(-1, 1), col = "blue")
 
 ```{r}
 as_tibble(mtcars)
+cat("test")
 ```
